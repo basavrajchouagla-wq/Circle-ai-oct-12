@@ -1,0 +1,6 @@
+{
+  "name": "CircleAI",
+  "description": "Collaborative project circles with shared canvas and Buddy AI co-chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
